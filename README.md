@@ -1,4 +1,3 @@
-# pokemon-client
 # Pokemon Client App
 
 This is a simple console application created to practice Object-Oriented Programming (OOP) in Python. The main idea of this project is to learn how to fetch data from external sources and wrap it into Python classes. 
